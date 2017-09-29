@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ImageDB</string>
+
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_register">Not a member? Sign up now.</string>
+    <string name="btn_link_to_login">Already registred! Login Me.</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="btn_upload">Upload Image</string>
+    <string name="btn_gallery">My Gallery</string>
+    <string name="btn_top">Top</string>
+    <string name="hint_serverUrl">ImageDB Server URL</string>
+    <string name="hint_saveSettings">Update and save settings</string>
+    <string name="action_settings">Settings</string>
+    <string name="gallery">Gallery</string>
+    <string name="widget_name">Top Image</string>
+    <string name="add_widget">Add widget</string>
+    <string name="open_post">OPEN POST IN WEB</string>
+</resources>
