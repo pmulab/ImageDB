@@ -14,5 +14,5 @@ CREATE TABLE `users` (
 COMMENT='User data.'
 COLLATE='utf8_general_ci'
 ENGINE=InnoDB
-AUTO_INCREMENT=4
+AUTO_INCREMENT=0
 ;
