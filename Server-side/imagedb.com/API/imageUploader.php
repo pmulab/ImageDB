@@ -23,8 +23,8 @@
 		 }
 		 
 		 $ImagePath = "images/$DefaultId.png";
-		 $ImageToPutPath = "C:/myprogram/openserver/openserver/domains/imagedb/images/$DefaultId.png";
-		 $ServerURL = "http://imagedb/$ImagePath";
+		 $ImageToPutPath = "X:/..ServerImagesFolderPath../images/$DefaultId.png";
+		 $ServerURL = "http://imagedb.com/$ImagePath";
 		 $InsertSQL = "insert into ImageStorage (image_path,image_name,author_unique_user_id,created_at,rating) values ('$ServerURL','$ImageName','$AutorUniqueUserId',NOW(),'-1')";	
 
 		 if(mysqli_query($conn, $InsertSQL))
